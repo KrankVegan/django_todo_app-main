@@ -25,6 +25,3 @@ Una vez que hayas instalado Django, puedes iniciar el servidor de desarrollo de 
 py manage.py runserver
 
 ```
-
-## 2. Ejecutar el servidor de desarrollo
-Una vez que hayas instalado Django, puedes iniciar el servidor de desarrollo de Django para ver la aplicación en funcionamiento. Ejecuta el siguiente comando:
