@@ -17,5 +17,11 @@ Primero, necesitas instalar Django. Puedes hacerlo usando pip, el gestor de paqu
 
 ```sh
 pip install django
+```
+## 2. Ejecutar el servidor de desarrollo
+Una vez que hayas instalado Django, puedes iniciar el servidor de desarrollo de Django para ver la aplicación en funcionamiento. Ejecuta el siguiente comando:
 
+```sh
 py manage.py runserver
+
+```
