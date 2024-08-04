@@ -17,3 +17,5 @@ Primero, necesitas instalar Django. Puedes hacerlo usando pip, el gestor de paqu
 
 ```sh
 pip install django
+
+py manage.py runserver
